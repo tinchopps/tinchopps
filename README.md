@@ -1,5 +1,5 @@
 ### Hi there 👋
-Sitio en construcción :) Gracias por visitar mi GitHub.
+Sitio en construcción :) Gracias por visitar. Que tengas un lindo dia <3
 
 <!--
 **tinchopps/tinchopps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
